@@ -25,7 +25,7 @@ SECRET_KEY = '3=s+h#mvym5zq2^88j4fco1r04vom#meg-(ow*v%1v6t6@4q#l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost-mg-ni-1.paiza-user.cloud']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
